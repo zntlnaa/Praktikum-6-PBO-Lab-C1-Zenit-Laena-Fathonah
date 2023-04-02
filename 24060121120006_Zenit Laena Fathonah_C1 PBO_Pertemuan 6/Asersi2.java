@@ -29,3 +29,5 @@ public class Asersi2{
 		System.out.println("Keliling lingkaran = " +kelilingLingkaran);
 	}
 }
+//Jawaban :
+// Ada, karena perintah dari assert jari-jari harus lebih dari 0, tetapi masukan jari-jari bernilai 0. Sehingga agar program tersebut dapat berjalan, maka masukan jari-jari harus diubah menjadi nilai lebih dari 0.
